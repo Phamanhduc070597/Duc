@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1523299486 source:e:\genneticalglorithm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
